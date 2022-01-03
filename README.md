@@ -186,6 +186,12 @@ h2{
     height: 420px;
 }
 
+.border{
+    border: 2px solid #045b8e;
+    margin-top: 30px;
+    padding: 10px 20px 20px 20px;
+}
+
 .kanan{
     width: 30%;
     float: left;
