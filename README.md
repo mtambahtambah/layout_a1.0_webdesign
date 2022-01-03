@@ -1,2 +1,2 @@
-# layout_html-css_a1.0_webdesign
+# layout a1.0
 layout A1.0 | HTML + CSS
